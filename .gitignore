@@ -1,0 +1,13 @@
+/**/*.user
+/**/obj
+/**/bin
+/**/packages
+/**/TestResults
+/**/.vs
+
+/**/*.suo
+/**/*.DotSettings
+/**/*.pubxml
+/**/*.jfm
+/**/*.cache
+
