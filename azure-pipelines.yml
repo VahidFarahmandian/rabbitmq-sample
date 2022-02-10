@@ -1,9 +1,0 @@
-trigger:
-- main
-
-pool:
-  vmImage: 'windows-latest'
-
-
-steps:
-- task: NuGetToolInstaller@1
